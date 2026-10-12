@@ -1,0 +1,3 @@
+# Documentation addresses; replace with addresses you are authorized to process.
+203.0.113.10
+2001:db8::1
